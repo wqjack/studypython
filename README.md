@@ -7,6 +7,7 @@
 - [Python 学习文档入口](./docs/README.md)
 - [Python for iOS / Web 开发者快速对照](./docs/python-for-ios-web-dev.md)
 - [8 周 Python 学习路径（面向 iOS / Web 开发者）](./docs/python-learning-path-8-weeks.md)
+- [第 1 周训练包（可直接开练）](./docs/week1-practice-pack.md)
 
 ## 建议使用方式
 
