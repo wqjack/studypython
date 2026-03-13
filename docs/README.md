@@ -7,6 +7,13 @@
 1. [Python for iOS / Web 开发者快速对照](./python-for-ios-web-dev.md)
 2. [8 周 Python 学习路径（以实作为主）](./python-learning-path-8-weeks.md)
 3. [第 1 周训练包（可直接开练）](./week1-practice-pack.md)
+4. [第 2 周训练包（可直接开练）](./week2-practice-pack.md)
+
+## PDF 版本
+
+- [第 1 周训练包 PDF](./pdf/week1-practice-pack.pdf)
+- [第 2 周训练包 PDF](./pdf/week2-practice-pack.pdf)
+- [PDF 文档目录](./pdf/README.md)
 
 ## 你可以先达成的三个目标
 

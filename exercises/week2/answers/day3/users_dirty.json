@@ -1,0 +1,7 @@
+[
+  {"id": "1", "name": "Alice", "department": "iOS", "role": "dev", "age": "26"},
+  {"id": 2, "name": "Bob", "department": "Web", "role": "dev", "age": null},
+  {"id": 3, "name": "", "department": "Web", "role": "qa", "age": 24},
+  {"id": 4, "department": "Backend", "role": "dev", "age": 30}
+]
+
